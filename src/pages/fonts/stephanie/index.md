@@ -23,29 +23,32 @@ date: "2018-04-05"
 
 
 ## Design
-Hinter der IBM Plex Schriftfamilie, welche acht Schriftschnitte umfasst, steht eine lange Geschichte. Die von IBM entwickelte Plex Font löst die Helvetica als Firmenschrift ab. IBM weiss, dass eine Schrift nicht nur eine Schrift ist, sondern ein Markenzeichen, ein bewusstes, sowie unbesusstes Wiedererkennungsmerkmal. Das einzelmen Komponenten des IBM Logos würde man wahrscheinlich auch allein stehend erkennen. Weshalb also nicht eine Schrift kreieren, welche den selben Wiedererkennungswert wieder gibt?<br>
+Die IBM PLex Superfamilie besteht aus vier Schriftfamilien, wovon jede je acht Schnitte umfasst. Diese Schrift hat eine lange Geschichte. Der von IBM entwickelte Font löste die Helvetica als Firmenschrift ab. Das ursprünglich 1956 von Paul Rand entworfene Fimenlogo wird man höchst wahrscheinlich auch erkennen, wenn man nur einen einzelnen Buchstaben daraus sieht. Die Herausforderung bei IBM war nun, wie dass eine dazu passende Schriftfamilie aussehen sollte.
 
-Mike Abbink setzte sich mit der Agentur Bold Monday zusammen und entwickelte die IBM Plex Schriftfamilie, welche mit ihrem unverwechselbaren Schriftschnitt ein einheitliches Erschreinungsbild darstellt. Für jede Sparte der passende Schnitt. So kann diese flexible Schrift im Entwicklungsbeich, auf Produktverpackungen und auf ibm.com verwendet werden. IBM arbeitet nun, nach zwei Jahren Entwicklung, an Zeichen für diverse Sprachen, welche im laufe von 2018 gelauncht werden. Auf die asiatischen Zeichen werden wir bis 2019 warten müssen.<br> 
+Mike Abbink setzte sich mit der Agentur Bold Monday zusammen und entwickelte die IBM Plex Superfamilie, welche mit ihren verschiedenen Schriftfamilien einen vielseitigen Einsatz und trotzdem ein einheitliches Erscheinungsbild ermöglicht. Für jede Sparte der passende Schnitt. So kann diese flexible Schrift von Entwicklern, auf Produktverpackungen und auf ibm.com verwendet werden. IBM arbeitet nun an Zeichen für diverse Sprachen, welche im laufe von 2018 gelauncht werden. Auf die chinesischen Zeichen werden wir bis 2019 warten müssen. 
 
-Die Font IBM Plex ist nach reichlicher Überlegung frei verfügbar. Sie kann auf Google Fonts heruntergeladen werden und könnte bald auch als Systemschriften für iOS verfügbar sein – in der Hoffnung, dass wenn Firmen die Font für ihre Logos oder als Firmenschrift wählen, der Leser unbewusst die Verknüpfung zur Firma IBM herstellt.<br>
+Der Font IBM Plex ist frei verfügbar. Er kann auf Google Fonts heruntergeladen werden und könnte theoretisch sogar auch eines Tages eine Systemschriften bei Apple werden. Dass der Free-Font möglicherweise auch von anderen Firmen für ihre Logos oder als Firmenschrift verwendet werden könnte, dem steht man bei IBM positiv gegenüber.
+
 
 
 ## Designer
-Die IBM Plex wurde von 2016-2017 von Michael «Mike» Abbink (US-amerikanischer Schriftgestalter und Typograf), verantwortlich für Konzept und Direktion Design, in Zusammenarbeit mit der holländischen Agentur Bold Monday designt. Das Team von Bold Monday für die IBM Plex bestand aus folgenden Designern:
-Paul van der Laan, Pieter van Rosmalen, Barbara Bigosińska, Diana Ovezea, Aleksandra Samuļenkova, Jasper Terra, Edgar Walthert, Marko Hrastovec, Pablo Gamez<br>
+Die IBM Plex wurde von 2016–2017 von Michael «Mike» Abbink (US-amerikanischer Schriftgestalter und Typograf), verantwortlich für Konzept und Direktion Design, in Zusammenarbeit mit der holländischen Agentur Bold Monday designt. Das Team von Bold Monday für die IBM Plex bestand aus folgenden Designern:
 
-Abbink startete seine Karriere bei MetaDesign in San Francisco. Nach drei Jahren war er Mitgründer von Methond, wo er Creative Director Corporate Identity, interaktives Design und Webdesign für Kunden wie Adobe, Autodesk, Gucci und weiteren war. <br>
+Paul van der Laan, Pieter van Rosmalen, Barbara Bigosińska, Diana Ovezea, Aleksandra Samuļenkova, Jasper Terra, Edgar Walthert, Marko Hrastovec, Pablo Gamez
 
-Danach war Abbink einige Jahre für Apple als Design Director Packaging tätig, wo er ein wichtiges Update für die Corporate Identitiy entwarf, als diese auf die Font Myriad wechselte.<br>
+Abbink startete seine Karriere bei MetaDesign in San Francisco. Nach drei Jahren war er Mitgründer von Methond, wo er Creative Director Corporate Identity, interaktives Design und Webdesign für Kunden wie Adobe, Autodesk, Gucci und weiteren war. Danach war Abbink einige Jahre für Apple als Design Director Packaging tätig, wo er ein wichtiges Update für die Corporate Identitiy entwarf, als diese auf die Font Myriad wechselte.
 
-Bevor Mike Abbink zu Saffron, eine Agentur für globale Marken- und Innovationsberatung, kam, arbeitete er für Wolff Olins in San Francisco und New York als Design Director.<br>
+Bevor Mike Abbink zu Saffron, eine Agentur für globale Marken- und Innovationsberatung, kam, arbeitete er für Wolff Olins in San Francisco und New York als Design Director.
 
 Der letzte von Abbinks zahlreichen Awards war für die von ihm entwickelte Font FF Kevit (Autodesk, Gensler und Olympus, CDU)
 
 Fonts: FF Kevit (Slab), FF Milo (Slab), Brando, GE Sans/Serif
 
 
+
 #### Quellen
-1. https://www.ibm.com/plex/
-2. https://www.mikeabbink.com/
+1. [IBM Design](https://www.ibm.com/thought-leadership/innovation_explanations/article/mike-abbink.html?1=1)
+2. [IBM Design](https://en.wikipedia.org/wiki/IBM_Plex)
+3. [IBM Designer](https://www.ibm.com/plex/)
+4. [Mike Abbink](https://www.mikeabbink.com/)
 
