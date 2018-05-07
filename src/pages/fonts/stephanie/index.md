@@ -47,8 +47,8 @@ Fonts: FF Kevit (Slab), FF Milo (Slab), Brando, GE Sans/Serif
 
 
 #### Quellen
-1. [IBM Design](https://www.ibm.com/thought-leadership/innovation_explanations/article/mike-abbink.html?1=1)
-2. [IBM Design](https://en.wikipedia.org/wiki/IBM_Plex)
-3. [IBM Designer](https://www.ibm.com/plex/)
+1. [IBM](https://www.ibm.com/thought-leadership/innovation_explanations/article/mike-abbink.html?1=1)
+2. [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex)
+3. [IBM Plex](https://www.ibm.com/plex/)
 4. [Mike Abbink](https://www.mikeabbink.com/)
 
