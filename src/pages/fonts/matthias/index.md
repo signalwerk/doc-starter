@@ -21,9 +21,6 @@ date: "2018-04-05"
 
 
 ## Design
-{{Text}}
-
-## Designer
 Die Roboto ist eine Serifenlose und Amerikanische Grotesk Schrift, 2011
 entworfen von Christian Robertson.
 Sie ist sie die Standart Schrift von Android (ab Android 4.0) und Google
@@ -62,6 +59,8 @@ https://developers.googleblog.com/2014/07/the-new-roboto.html
 https://de.wikipedia.org/wiki/Roboto
 Roboto
 
+## Designer
+Christian Robertson ist ein Interface Designer bei Google und Inhaber des Schriftlabels Betatype.Seine erste Font zeichnete er in der 5. Klasse (5th Grade) die Schrift nannte er „Christian“, seither gestaltet er schriften. Zuden designt und programmiert er interfaces, früher bei Punchcut und heute bei Google. Die Roboto welche er entworfen hat ist heute die Standart Schrift von Google und Andriod. Er hat / hatte eine Type Foundary namens Betatype.
 
 #### Quellen
 1. [Name der Quelle](http://...)
