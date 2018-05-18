@@ -28,9 +28,9 @@ Alfonso García
 Senior Designer
 Santiago, Chile 
 
-Alfonso García arbeitet momentan bei Latinotype. Einer Typefoundry aus Chile. Er wurde für seine Schrift Faustina 2016 von tiposlatinos ausgezeichnet. Die Omnibus-Type Foundry die, die Schrift Faustina beinhaltet ist in Buenos Aires, Argentinien zuhause. Sie hat sich auf Webfonts spezialisiert und bietet rund 20 Schriften an. Das Team von Omibus-Type besteht aus sieben Designern. Ihr Ziel besteht darin, Webfonts auf höchstem ästhetischen und technischen Niveau anzubieten. Alle Schriften die sie produzieren, entwickeln sich stetig weiter. Zudem gibt es ständig neue Anwendungen, neue Sprachen und neue Technologien die sie einsetzen. Einige Schriften werden gratis herausgegeben um eine grosse Reichweite zu erreichen. Wiederum viele andere werden erst mithilfe eines spezifischen Auftrages durch Auftraggeber aus aller Welt hergestellt.
+Alfonso García arbeitet momentan bei Latinotype. Einer Typefoundry aus Chile. Er wurde für seine Schrift Faustina 2016 von tiposlatinos ausgezeichnet. Die Omnibus-Type Foundry, welche die Schrift Faustina beinhaltet, ist in Buenos Aires, Argentinien zuhause. Sie hat sich auf Webfonts spezialisiert und bietet rund 20 Schriften an. Das Team von Omibus-Type besteht aus sieben Designern. Ihr Ziel besteht darin, Webfonts auf höchstem ästhetischen und technischen Niveau anzubieten. Alle Schriften die sie produzieren, entwickeln sich stetig weiter. Zudem gibt es ständig neue Anwendungen, neue Sprachen und neue Technologien die sie einsetzen. Einige Schriften werden gratis herausgegeben um eine grosse Reichweite zu erreichen. Wiederum viele andere werden erst mithilfe eines spezifischen Auftrages durch Auftraggeber aus aller Welt hergestellt.
 
-Die Schrift Faustina wird momentan auf 1'600 Webseiten eingesetzt.
+Die Schrift Faustina wird momentan auf 1600 Webseiten eingesetzt.
 
 
 #### Quellen
