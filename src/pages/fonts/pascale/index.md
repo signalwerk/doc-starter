@@ -27,9 +27,14 @@ Mit den 10 Schnitten wollte der Designer eine Schrift entwerfen, die für Body 
 
 ## Designer
 Łukasz Dziedzic
+Łukasz Dziedzic wurde 1967 in Warschau geboren. Er arbeitete als Tontechniker und gelegentlich als Schauspieler in einer Kinder-Theater-Gruppe. Während der ersten freien polnischen Wahlen 1989 arbeitete er kurz als Zeitungsjunge für Gazeta Wyborcza, die frisch ins Leben gerufene, erste unabhängige Tageszeitung des Landes. Ein Jahr später trat er der Design-Abteilung von Gazeta Wyborcza bei. Dort war er sieben Jahre lang an dem Design der Tageszeitung und deren wöchentlichen Beilagen beteiligt, für die er seine erste Schrift zeichnete. Später arbeitete er für mehrere andere Zeitungsverlage, bei denen er Zeitungen und Zeitschriften mitgestaltete. In dieser Zeit entwickelte Łukasz mehr als ein Dutzend Schriftfamilien, von großen lateinischen und kyrilischen Brotschriftfamilien bis hin zu einzelnen Display-Schnitten. 
+
+In 2007 entwarf Łukasz eine mit drei Schnitten und zwei Alphabeten (Lateinisch, Kyrillisch) angelegte Corporate-Schriftfamilie für empik, einen der größten polnischen Einzelhandelsketten für Bücher, Presse und Musik. Zeitgleich veröffentlichte FontShop International zwei Schriftfamilien von Łukasz Dziedzic (FF Clan und FF Good), mit zwei weiteren Familien in Vorbereitung (FF Pitu und FF More). Die Lato ist sein berühmtester Font, welcher als einziger ein Free-Font ist.
 
 
 #### Quellen
-1. [Wikipedia](http://de.wikipedia.org/wiki/Lato)
+1. [Wikipedia](https://de.wikipedia.org/wiki/Lato_(Schriftart))
 2. [Lato](http://latofonts.com/)
 3. [Google Font Bibliothek](http://fonts.google.com/specimen/Lato)
+4. [typografie.info] (https://www.typografie.info/3/Personen/wiki.html/lukasz-dziedzic-r259/)
+5. [myfonts] (https://www.myfonts.com/person/Lukasz_Dziedzic/)
