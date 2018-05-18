@@ -35,7 +35,25 @@ Die Raleway fällt in die Kategorie der Grotesk Schrift (San Serif oder auch als
 Ausserdem gibt es einen Geschwister-Font namens Raleway Dots.
 
 ## Designer
-{{Text}}
+Matt McInerney
+Zeichnete nur den Light Font, der erste Schnitt aus der Familie Raleway.
+Er ist ein Designer aus den  US-Staaten. Schriften zeichnen ist ein kleiner Teil seiner Arbeit. Sonst gestaltet er alle arten von Brandings. Ausserdem führt er einen Podcast über Design.
+Er hat bei einer renommierten Medienagentur in New York, genannt Pentagramm, gearbeitet. Nun ist er bei Motel angestellt.
+http://motel.is/a-great-team
+https://www.pentagram.com/work/archive
+
+Pablo Impallari
+Pablo erweiterte die Familie zusammen mi Rodrigo um 8 weitere Schriftschnitte.  Er selbst ist ein Schriftgestalter aus Argentinien.
+Neben der Erweiterung der Raleway Font hat er die Libre Franklin, Libre Caslon Text, Libre Caslon Display und die Libre Baskerville gezeichnet.
+https://www.fontown.com/en/font-designers/pablo-impallari
+
+
+Rodrigo Fuenzalida
+Auch er ist ein Schriftdesigner und Illustrator geboren in Venezuela. Er hat die verschiedenen Libre Fonts gemeinsam mit Pablo erarbeitet, wie auch die Raleway Font erweitert. Dazu hat er noch wenige eigene Schriften entwickelt. Dazu gehören die Krania, Poetsen und die Racing Sans. Ausserdem praktiziert er Kalligrafie und entwirft eigene Schriftzüge für diverse Aufträge. 
+http://www.rfuenzalida.com/
+
+Seiten mit Verwendung der Raleway font:
+https://lenews.ch/2016/10/26/migros-experiments-with-personalised-discounts/ 
 
 
 #### Quellen
