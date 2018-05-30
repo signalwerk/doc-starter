@@ -30,7 +30,6 @@ Mike Abbink setzte sich mit der Agentur Bold Monday zusammen und entwickelte die
 Der Font IBM Plex ist frei verfügbar. Er kann auf Google Fonts heruntergeladen werden und könnte theoretisch sogar auch eines Tages eine Systemschriften bei Apple werden. Dass der Free-Font möglicherweise auch von anderen Firmen für ihre Logos oder als Firmenschrift verwendet werden könnte, dem steht man bei IBM positiv gegenüber.
 
 
-
 ## Designer
 Die IBM Plex wurde von 2016–2017 von Michael «Mike» Abbink (US-amerikanischer Schriftgestalter und Typograf), verantwortlich für Konzept und Direktion Design, in Zusammenarbeit mit der holländischen Agentur Bold Monday designt. Das Team von Bold Monday für die IBM Plex bestand aus folgenden Designern:
 
