@@ -209,3 +209,11 @@ a:hover {
 .font--ubuntu:hover {
   background-color: #5e2750;
 }
+
+.font--neuton {
+  background: linear-gradient(to bottom right, red, yellow);
+}
+
+.font--neuton:hover {
+  background: linear-gradient(to bottom right, green, yellow);
+}
