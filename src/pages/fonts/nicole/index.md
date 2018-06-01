@@ -43,7 +43,7 @@ http://motel.is/a-great-team
 https://www.pentagram.com/work/archive
 
 Pablo Impallari
-Pablo erweiterte die Familie zusammen mi Rodrigo um 8 weitere Schriftschnitte.  Er selbst ist ein Schriftgestalter aus Argentinien.
+Pablo erweiterte die Familie zusammen mit Rodrigo um 8 weitere Schriftschnitte.  Er selbst ist ein Schriftgestalter aus Argentinien.
 Neben der Erweiterung der Raleway Font hat er die Libre Franklin, Libre Caslon Text, Libre Caslon Display und die Libre Baskerville gezeichnet.
 https://www.fontown.com/en/font-designers/pablo-impallari
 
