@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "6"
+  - "8"
 install:
   - bash ./gatsby.sh
   - npm install
@@ -8,8 +8,11 @@ script:
   - bash ./travis/gh-pages.sh
 env:
   global:
-  - ENCRYPTION_LABEL: "27cf93a204d8"
+  - ENCRYPTION_LABEL: "ab9f67e75e8f"
   - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
   - DEPLOY_DIR: "public"
   - SOURCE_BRANCH: "master"
   - TARGET_BRANCH: "gh-pages"
+branches:
+  only:
+  - master

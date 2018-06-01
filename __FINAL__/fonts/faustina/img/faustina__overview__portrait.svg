@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="206px" viewBox="0 0 301 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-30.000000, -58.000000)">
+            <text id="Faustina" font-family="Faustina-Bold, Faustina" font-size="71" font-weight="bold" fill="#000000">
+                <tspan x="30" y="110">Faustina</tspan>
+            </text>
+            <text id="knowledge-of-art" font-family="Faustina-Medium, Faustina" font-size="32" font-weight="400" fill="#000000">
+                <tspan x="30" y="158">knowledge of art</tspan>
+            </text>
+            <rect id="Rectangle" x="0" y="0" width="375" height="600"></rect>
+            <text id="the-process-and-the" font-family="Faustina-Regular, Faustina" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="30" y="215">the process and the product of planning, </tspan>
+                <tspan x="30" y="238">designing, and constructing buildings </tspan>
+                <tspan x="30" y="261">and other physical structures.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
