@@ -26,7 +26,9 @@ Neuton ist ein moderner Serifenfont und eignet sich für den Einsatz im Text- u
 Neben den Italic-Schnitten von ExtraLight und Regulag gibt es noch eine organischere, schwungvollere Cursive. Zudem gibt es den Font auch in Smallcaps in fünf Schnitten. Die Schriftfamilie kann von verschiedensten Fontanbietern im TTF-Format heruntergeladen werden und steht auch als Webfont bei Google zur Verfügung.
 
 ## Designer
-{{Text}}
+Brian M. Zick wurde 1991 in Scranton, Pennsylvania, USA geboren und hatte schon immer Interesse an Schriftzügen und Schriften. Er begann als autodidaktischer Grafik- und Schriftgestalter. Sein Traum, eine Schrift zu entwerfen, wurde 2010 verwirklicht, als er den Font Neuton erschuf, benannt nach Newton County, Arkansas, wo er zu dieser Zeit lebte.
+
+Er hat viele Work-in-Progress-Schriften, die er eines Tages vervollständigen möchte. Er lebt jetzt mit seiner Frau und seinem Sohn in Los Angeles, Kalifornien, und arbeitet im Bereich Programmierung.
 
 
 #### Quellen
