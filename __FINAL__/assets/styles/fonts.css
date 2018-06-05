@@ -1,0 +1,28 @@
+
+/* per student/font */
+
+.font--ubuntu {
+  background-color: #e95420;
+}
+
+.font--ubuntu:hover {
+  background-color: #5e2750;
+}
+
+.font--ubuntu a {
+  color: white;
+}
+
+.font--ubuntu:hover a {
+  color: red;
+}
+
+
+
+.font--lato {
+  background: linear-gradient(to bottom right, red, yellow);
+}
+
+.font--lato:hover {
+  background: linear-gradient(to bottom right, green, yellow);
+}
