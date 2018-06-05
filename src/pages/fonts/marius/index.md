@@ -1,5 +1,5 @@
 ---
-title: Newton
+title: Neuton
 date: "2018-04-05"
 ---
 
@@ -8,7 +8,7 @@ date: "2018-04-05"
 
 <div class="col1to12">
 
-![Newton](./Newton.svg)
+![Neuton](./Neuton.svg)
 
 </div>
 
