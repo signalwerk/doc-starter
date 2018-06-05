@@ -25,7 +25,7 @@ const IndexPage = () => (
         <li><Link to="/fonts/marc">Cooper Hewitt</Link></li>
         <li><Link to="/fonts/nadia">Bitter</Link></li>
         <li><Link to="/fonts/nicole">Raleway</Link></li>
-        <li><Link to="/fonts/marius">Newton</Link></li>
+        <li><Link to="/fonts/marius">Neuton</Link></li>
       </ul>
 
 
