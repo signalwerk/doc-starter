@@ -34,3 +34,15 @@
 .font--rambla:hover {
   background: linear-gradient(to right, #be6c7a, #cab169);
 }
+
+.font--faustina {
+  background: linear-gradient(to right, #D7CEC9, #304352);
+}
+
+.font--faustina:hover {
+  background: linear-gradient(to right, #D7CEC9, #D7CEC9);
+}
+
+.font--faustina a {
+  color: white;
+}
