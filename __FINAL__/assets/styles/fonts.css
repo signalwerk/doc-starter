@@ -17,6 +17,13 @@
   color: red;
 }
 
+.font--barlow {
+  background-color: #00F485;
+}
+
+.font--barlow:hover {
+  background-color: #1DA366;
+}
 
 
 .font--lato {
