@@ -42,13 +42,20 @@
     color: #fff;
 }
 
+.font--lato a {
+  color: grey;
+}
+
+.font--lato:hover a {
+  color: black;
+}
 
 .font--lato {
-  background: linear-gradient(to bottom right, red, yellow);
+  background: linear-gradient(to left, #BDEFEB, #E5D0AE);
 }
 
 .font--lato:hover {
-  background: linear-gradient(to bottom right, green, yellow);
+  background: linear-gradient(to left, #9ED8D6, #EFD895);
 }
 
 .font--rambla {
