@@ -18,20 +18,20 @@
 }
 
 .font--barlow {
-  background-color: #00F485;
+  background: linear-gradient(to left, #B1E0C7, #035E46);
 }
 
 .font--barlow:hover {
-  background-color: #1DA366;
+  background: linear-gradient(to left, #DBEDE4, #03785D);
 }
 
 .font--muktavaani {
     background: rgb(20,30,48);
-    background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%); 
-} 
+    background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+}
 
 .font--muktavaani:hover {
-    background: linear-gradient(130deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%); 
+    background: linear-gradient(130deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%);
 }
 
 .font--muktavaani a {
