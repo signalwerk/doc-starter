@@ -82,7 +82,18 @@
   background-color: #FFF857;
 }
 
-.font--ubuntu:bitter {
+.font--bitter:hover {
   background-color: #5AE8FF;
 }
 
+.font--raleway {
+  background: linear-gradient(to right, #FC755D, #448AFC);
+}
+
+.font--raleway:hover {
+  background: linear-gradient(to right, #ffb7aa, #a3c6ff);
+}
+
+.font--raleway a {
+  color: black;
+}
