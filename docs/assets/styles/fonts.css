@@ -99,11 +99,11 @@
 }
 
 .font--roboto {
-    background: linear-gradient(to right, #F4AE3D, #ED5228);
+    background: linear-gradient(130deg, #FFAB00, #ED5228);
 }
 
 .font--roboto:hover {
-    background: linear-gradient(to right, #e99000, #e43607);
+    background: linear-gradient(130deg, #EF9900, #e43607);
 }
 
 .font--roboto a {
